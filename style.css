@@ -1,5 +1,14 @@
 .link {
-    color: green;
+    color: rgb(0, 17, 255);
     font-family: "Times New Roman", serif;
     font-size: 18px;
+}
+h1 {
+    color: rgb(0, 17, 255);
+    text-align: center;
+    font-size: 50px;
+    font-family: "Times New Roman", serif;
+}
+body {
+    background-color: yellow;
 }
