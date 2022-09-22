@@ -11,6 +11,8 @@ h1 {
 }
 body {
     background-color: yellow;
+    color:rgb(0, 17, 255);
+    font-family: "Times New Roman", serif;
 }
 .spaghetti {
     display: block;
